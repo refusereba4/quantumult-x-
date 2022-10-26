@@ -1,1 +1,1 @@
-# quantumult-x-
+# quantumultx 规则
