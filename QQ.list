@@ -1,0 +1,24 @@
+# NAME: Tencent
+# AUTHOR: jasonfan
+# HOST-SUFFIX: 13
+# USER-AGENT: 5
+# TOTAL: 18
+HOST-SUFFIX,qq.com,Tencent
+HOST-SUFFIX,qq.com.cn,Tencent
+HOST-SUFFIX,qq.xn--fiqs8s,Tencent
+HOST-SUFFIX,qqgameapp.com,Tencent
+HOST-SUFFIX,qqgames.com,Tencent
+HOST-SUFFIX,qqmail.com,Tencent
+HOST-SUFFIX,qqmra.cn,Tencent
+HOST-SUFFIX,qqmra.com,Tencent
+HOST-SUFFIX,qqopenapp.com,Tencent
+HOST-SUFFIX,qqurl.com,Tencent
+HOST-SUFFIX,qstatic.com,Tencent
+HOST-SUFFIX,qyunapp.com,Tencent
+HOST-SUFFIX,qzone.com,Tencent
+HOST-SUFFIX,qzoneapp.com,Tencent
+USER-AGENT,MOO%E9%9F%B3%E4%B9%90*,Tencent
+USER-AGENT,QQ%E9%9F%B3%E4%B9%90,Tencent
+USER-AGENT,TencentMidasConnect*,Tencent
+USER-AGENT,live4iphone*,Tencent
+USER-AGENT,qqlive4iphone*,Tencent
