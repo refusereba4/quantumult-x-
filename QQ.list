@@ -1,24 +1,24 @@
-# NAME: Tencent
+# NAME: QQ
 # AUTHOR: jasonfan
 # HOST-SUFFIX: 14
 # USER-AGENT: 5
 # TOTAL: 19
-HOST-SUFFIX,qq.com,Tencent
-HOST-SUFFIX,qq.com.cn,Tencent
-HOST-SUFFIX,qq.xn--fiqs8s,Tencent
-HOST-SUFFIX,qqgameapp.com,Tencent
-HOST-SUFFIX,qqgames.com,Tencent
-HOST-SUFFIX,qqmail.com,Tencent
-HOST-SUFFIX,qqmra.cn,Tencent
-HOST-SUFFIX,qqmra.com,Tencent
-HOST-SUFFIX,qqopenapp.com,Tencent
-HOST-SUFFIX,qqurl.com,Tencent
-HOST-SUFFIX,qstatic.com,Tencent
-HOST-SUFFIX,qyunapp.com,Tencent
-HOST-SUFFIX,qzone.com,Tencent
-HOST-SUFFIX,qzoneapp.com,Tencent
-USER-AGENT,MOO%E9%9F%B3%E4%B9%90*,Tencent
-USER-AGENT,QQ%E9%9F%B3%E4%B9%90,Tencent
-USER-AGENT,TencentMidasConnect*,Tencent
-USER-AGENT,live4iphone*,Tencent
-USER-AGENT,qqlive4iphone*,Tencent
+HOST-SUFFIX,qq.com,QQ
+HOST-SUFFIX,qq.com.cn,QQ
+HOST-SUFFIX,qq.xn--fiqs8s,QQ
+HOST-SUFFIX,qqgameapp.com,QQ
+HOST-SUFFIX,qqgames.com,QQ
+HOST-SUFFIX,qqmail.com,QQ
+HOST-SUFFIX,qqmra.cn,QQ
+HOST-SUFFIX,qqmra.com,QQ
+HOST-SUFFIX,qqopenapp.com,QQ
+HOST-SUFFIX,qqurl.com,QQ
+HOST-SUFFIX,qstatic.com,QQ
+HOST-SUFFIX,qyunapp.com,QQ
+HOST-SUFFIX,qzone.com,QQ
+HOST-SUFFIX,qzoneapp.com,QQ
+USER-AGENT,MOO%E9%9F%B3%E4%B9%90*,QQ
+USER-AGENT,QQ%E9%9F%B3%E4%B9%90,QQ
+USER-AGENT,TencentMidasConnect*,QQ
+USER-AGENT,live4iphone*,QQ
+USER-AGENT,qqlive4iphone*,QQ
