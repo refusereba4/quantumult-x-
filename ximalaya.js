@@ -5,8 +5,11 @@ var responseBody = JSON.parse(body);
 //responseBody.header = responseBody.header.filter(item => item.item.title !== '818');
 
 // 删除header中的所有item项
-if (responseBody['header']) {
-    responseBody['header'] = [];
+//if (responseBody['header']) {
+//    responseBody['header'] = [];
+//}
+if (responseBody.header && responseBody.header.length >= 1) {
+  responseBody.header.splice(0, 1); // 删除第一项
 }
 
 body = JSON.stringify(responseBody);
